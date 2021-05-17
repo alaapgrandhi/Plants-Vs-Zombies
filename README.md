@@ -1,7 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
 ## Details
 **Created by:** Alaap Grandhi
 This is a simple clone of the game Plants vs. Zombies from PopCap studios. **Note that the sole purpose of this project is for learning and that it is not meant to profit off of PopCap entertainment's intellectual property**. 
