@@ -36,7 +36,3 @@ This game currently implements the following features:
 - `src`: the folder to maintain source code files
 - `bin`: the folder to maintain the binary files, or the actual executable code for the application
 - `resources`: the folder to maintain all the images/accessory files needed for the application
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
