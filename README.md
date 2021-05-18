@@ -1,6 +1,6 @@
 ## Details
 **Created by:** Alaap Grandhi
-This is a simple clone of the game Plants vs. Zombies from PopCap studios. **Note that the sole purpose of this project is for learning and that it is not meant to profit off of PopCap entertainment's intellectual property**. 
+This is a clone of the game Plants vs. Zombies from PopCap studios implemented in Java. **Note that the sole purpose of this project is for learning and that it is not meant to profit off of PopCap studio's intellectual property**. 
 
 ## Current Features
 This game currently implements the following features:
